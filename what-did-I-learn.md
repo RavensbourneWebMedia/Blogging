@@ -1,4 +1,4 @@
-*This is a template for a **reflection** blog post, appropriate for the end of a unit or project.*
+_This is a template for a **reflection** blog post, appropriate for the end of a unit or project._
 
 
 ### What were your learning goals at the beginning of the unit? 
