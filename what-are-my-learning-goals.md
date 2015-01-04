@@ -1,4 +1,4 @@
-*This is a template for a **reflection** blog post, appropriate for the beginning of a unit or project.*
+_This is a template for a **reflection** blog post, appropriate for the beginning of a unit or project._
 
 
 ### What do you want to get out of this unit/project?
