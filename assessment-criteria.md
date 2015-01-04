@@ -6,13 +6,13 @@
 
 #### E
 
-There are less than 6 posts.
+There are less than the minimum number of posts (as stated in the unit guidelines).
 
 They mostly consist of one or two disconnected sentences. They are disorganised and do not reflect what was done in class.
 
 #### D
 
-There are less than 6 posts. 
+There are less than the minimum number of posts (as stated in the unit guidelines). 
 
 They are unfocused, or simply rehashing existing material, and there is minimal reference to what is heard / made in or outside class.
 
