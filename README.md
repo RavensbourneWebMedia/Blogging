@@ -1,6 +1,6 @@
 # Blogging
 
-Your blog is a **self-assessment** and creative process **documentation tool**. 
+Your blog is a **reflection** and creative process **documentation tool**. 
 
 We don’t ask you to blog to fill your time. Documenting your project through a blog helps you develop your **critical thinking and analysis skills**. Just writing all positive, unspecific things about a project doesn’t exercise those analytic mind muscles.
 
