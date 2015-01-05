@@ -9,7 +9,7 @@ We don’t ask you to blog to fill your time. Documenting your project through a
 
 ## Some tips
 
-1. Please don't write a primary school log of what we've done in class. We know what we've done in class already. 
+1. Please don't write a primary school log of what we've done in class (aka `regurgitation`). We know what we've done in class already. 
 
 	Tell us what you've learned and why you think it's **relevant**. Or **boring**, or **confusing**.
 
@@ -19,9 +19,9 @@ We don’t ask you to blog to fill your time. Documenting your project through a
 
 * The Web wouldn't be a Web without **[hyperlinks](http://en.wikipedia.org/wiki/Hyperlink)**! Use plenty of them.
 
-* **Paragraphs** are a good thing! When you see a block of text that is longer than 5 lines (eg on FB), do you want to read it? Or do you find yourself skimming over it?  
+* **Paragraphs** are a good thing! When you see a block of text that is longer than 5 lines (for instance on FB), do you want to read it? Or do you find yourself skimming over it?  
  
-* Use headings, sub-headings, bold and italics and links to give your posts some **visual rythm**. 
+* Use headings, sub-headings, **bold** and *italics* to give your posts a **visual rythm**. These will allow readers to `scan` for keywords before they actually start to `read` your posts. 
 
 * **Images**: make them big! There's nothing more painful (typographically) than squinting your eyes to try and make sense of an image, with text wrapping around it.
 
