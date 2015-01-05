@@ -1,4 +1,4 @@
-# Blogging
+# Why blogging?
 
 Your blog is a **reflection** and creative process **documentation tool**. 
 

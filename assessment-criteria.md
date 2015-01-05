@@ -1,6 +1,6 @@
 # Students blog assessment criteria
 
-[Why blogging?](https://github.com/RavensbourneWebMedia/Blogging)
+[Why blogging?](https://github.com/RavensbourneWebMedia#why-blogging)
 
 ## F
 
