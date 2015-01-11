@@ -5,7 +5,7 @@ _This is a template for a **reflection** blog post, appropriate for the beginnin
 
 List **at least 3 goals**. 
 
-Try not to use vague phrases such as *I want to learn about…* If you are too vague, then how will you know when you reach your goal? Use an *action word* to describe what you want to achieve. Using an action word makes sure your goal is measurable. Examples of action words are:
+Try not to use vague phrases such as *I want to learn about…* If you are too vague, then how will you know when you reach your goal? Use an *action word* to describe what you want to achieve. Examples of action words are:
 
 * develop 
 * plan 
@@ -21,19 +21,19 @@ As a student, as a person, and/or as a creative professional.
 
 ### Where do you currently stand?
 
-What are your **strengths** and your **weaknesses**? 
+* What are your **strengths** and your **weaknesses**? 
 
-How do you intend you develop them further? 
+* How do you intend you develop them further? 
 
-Who do you admire? What can you learn from them?
+* Who do you admire? What can you learn from them?
 
 ### How do you intend to achieve your goals?
 
-What small steps could you take towards making it happen?
+* What small steps could you take towards making it happen?
 
-How do you learn best? What hinders your learning?
+* How do you learn best? What hinders your learning?
 
-What are you proud of in your learning and what do you wish you could do better?
+* What are you proud of in your learning and what do you wish you could do better?
 
 ### Could you summarise your intentions in one word?
 
@@ -62,4 +62,4 @@ A SMART learning goal is structured so that anyone who reads your goal statement
 understand what you want to learn. Here are two examples of SMART goals:
 
 * `I want to build a custom WordPress theme for my uncle's business by December 9`
-* `I want to run the local charity 5k race on June 15`
+* `I want to run the local charity 10k race on June 15`
