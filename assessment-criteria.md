@@ -4,13 +4,13 @@
 
 ## F
 
-[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) The student failed to deliver the assignment. 
+[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) We saw you around but you failed to show evidence of your blogging. 
 
 ## E
 
 There are less than the minimum number of posts (as stated in the unit guidelines).
 
-They mostly consist of one or two disconnected sentences. They are disorganised and do not reflect what was done in class.
+They mostly consist of one or two disconnected / disorganised paragraphs.
 
 ## D
 
