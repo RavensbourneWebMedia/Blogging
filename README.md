@@ -7,7 +7,7 @@ We don’t ask you to blog to fill your time. Documenting your project through a
 ![blog ON](http://i.imgur.com/9U2OO22.png?1)
 
 
-## Some tips
+### Some tips
 
 1. Please don't write a primary school log of what we've done in class (aka `regurgitation`). We know what we've done in class already. 
 
@@ -27,5 +27,10 @@ We don’t ask you to blog to fill your time. Documenting your project through a
 
 
 
+### License
+
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
 
