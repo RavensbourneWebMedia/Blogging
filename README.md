@@ -11,11 +11,11 @@ Common answers:
 * It doesn't look good.
 * I know what I'm doing so there's no need to write it down.
 
-Let's not call it a *blog*, but rather an **online sketchbook**. 
+:pencil: Let's not call it a *blog*, but rather an **online sketchbook**. 
 
-Creative people have been using sketchbooks for centuries to jot down ideas, record conversations, remember things, plan projects, doodle...
+Creative people have been using sketchbooks for centuries to jot down ideas, record conversations, collect inspirations, remember things, plan projects, doodle...
 
-It's place to think.
+:thought_balloon: It's place to think. 
 
 Sketching and writing (whether is on paper or digital) helps you:
 
@@ -23,7 +23,7 @@ Sketching and writing (whether is on paper or digital) helps you:
 * Figure out your next step
 * Document your creative **process**
 * Reflect on your **progress**
-* Realise that after all you have actually done something today :smile:
+* ... realise that after all you have actually done or learned something today / this week :ok_hand:
 
 <!--We don’t ask you to keep an *online sketchbook* to fill your time. Documenting your project through a blog helps you develop your **critical thinking and analysis skills**. Just writing all positive, unspecific things about a project doesn’t exercise those analytic mind muscles.-->
 
