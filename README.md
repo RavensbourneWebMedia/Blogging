@@ -11,7 +11,7 @@ Common answers:
 * It doesn't look good.
 * I know what I'm doing so there's no need to write it down.
 
-:pencil: Let's not call it a *blog*, but rather an **online sketchbook**. 
+:notebook: Let's not call it a *blog*, but rather an **online sketchbook**. 
 
 Creative people have been using sketchbooks for centuries to jot down ideas, record conversations, collect inspirations, remember things, plan projects, doodle...
 
@@ -37,7 +37,8 @@ It's a **mindset**.
 * Collecting visual inspirations: [Pinterest](https://uk.pinterest.com/)
 * Bookmarking: [Delicious](https://delicious.com/)
 * Taking notes: [Evernote](https://evernote.com/), Google Docs, [Hackpad](https://hackpad.com/), [Quip](https://quip.com), [Paper](https://www.fiftythree.com/paper), real paper and pens.. 
-* Blogging: Medium, WordPress, Tumblr 
+* Blogging (publishing platforms): Medium, WordPress, Tumblr   
+* Writing: [PenFlip](https://www.penflip.com), [Grammarly](http://grammarly.com)
 
 ### Tips
 
@@ -57,6 +58,11 @@ It's a **mindset**.
 
 * **Images**: make them big! There's nothing more painful (typographically) than squinting your eyes to try and make sense of an image, with text wrapping around it.
 
+* **Editing and proofreading**  
+  
+	Ask yourself: does this sentence making sense? Would someone else enjoy reading it?  Could I make the same point with less words?  
+
+  Re-read your stuff and make sure your points are clear and sharp. Don't blabber on, edit out the unnecessary. 
 
 
 ### License
